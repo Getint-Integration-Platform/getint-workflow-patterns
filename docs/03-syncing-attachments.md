@@ -6,7 +6,7 @@ This document explains recommended patterns, limitations, and examples.
 
 ---
 
-## 📤 How Attachment Sync Works
+## How Attachment Sync Works
 
 Attachment sync is configured under **Type Mapping → Attachments**.  
 Getint supports the following directions:
@@ -25,7 +25,7 @@ No attachments are synced.
 
 ---
 
-## 🧩 Recommended Best Practices
+## Recommended Best Practices
 
 ### **1. Prefer one-way sync unless bidirectional is required**
 Bidirectional attachment sync can cause:
@@ -60,7 +60,7 @@ Examples:
 
 ---
 
-## ⚙️ Attachment Behavior by Platform (Summary)
+## Attachment Behavior by Platform (Summary)
 
 | Platform | Notes |
 |---------|-------|
@@ -73,7 +73,7 @@ Examples:
 
 ---
 
-## 📦 SaaS vs Data Center Performance
+## SaaS vs Data Center Performance
 
 ### **SaaS environment**
 - Attachment sync may be limited to prevent heavy API load  
@@ -86,7 +86,7 @@ Examples:
 
 ---
 
-## 📘 Example Configuration Patterns
+## Example Configuration Patterns
 
 ### **Pattern 1 — One-way attachment sync**
 Recommended for most ITSM → Dev scenarios:
@@ -115,7 +115,7 @@ Useful when:
 
 ---
 
-## 🧪 Testing Attachment Sync
+## Testing Attachment Sync
 
 Before enabling full sync:
 

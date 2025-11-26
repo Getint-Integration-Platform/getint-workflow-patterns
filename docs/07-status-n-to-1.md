@@ -147,4 +147,4 @@ Better pattern:
 ## 🔍 Learn More
 
 Refer to Getint documentation:  
-https://docs.getint.io/getintio-platform/workflows/mapping-multiple-statuses-to-one
+https://docs.getint.io/getintio-platform/workflows/mapping-multiple-statuses-to-one-n-to-1-in-getint

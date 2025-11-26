@@ -6,7 +6,7 @@ This repository gathers reusable workflow patterns, examples, and best-practice 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository is designed to help:
 
@@ -19,7 +19,7 @@ Everything inside is focused on *real-world* work: templates, mappings, recommen
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 docs/                      → Detailed explanations of each workflow topic
@@ -72,7 +72,7 @@ Quick reference snippets broken down into:
 
 ---
 
-## 🚀 Goals
+## Goals
 
 - Make Getint integrations easier to configure  
 - Standardize patterns across teams and partners  
@@ -81,7 +81,7 @@ Quick reference snippets broken down into:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are very welcome!  
 You can:
@@ -95,6 +95,6 @@ Please submit a PR or open an issue before large changes.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — feel free to use these examples in your own integrations.

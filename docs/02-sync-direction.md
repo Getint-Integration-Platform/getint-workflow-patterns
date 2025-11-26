@@ -7,7 +7,7 @@ This guide summarizes patterns, best practices, and common configurations.
 
 ---
 
-## 🔄 What Is Sync Direction?
+## What Is Sync Direction?
 
 Each field and data type can be synced in one of three modes:
 
@@ -32,7 +32,7 @@ Less common, but useful when:
 
 ---
 
-## 🧩 Where Sync Direction Applies
+## Where Sync Direction Applies
 
 - Field Mapping  
 - Comments  
@@ -46,7 +46,7 @@ Each mapping pair supports different direction options depending on the platform
 
 ---
 
-## 📘 Recommended Best Practices
+## Recommended Best Practices
 
 ### **1. Keep status mapping bidirectional (↔) when both teams manage workflow**
 Use when:
@@ -78,7 +78,7 @@ This avoids:
 
 ---
 
-## 📝 Example Sync Pattern Table
+## Example Sync Pattern Table
 
 | Field | Jira → ADO | ADO → Jira | Notes |
 |------|-------------|-------------|-------|
@@ -93,7 +93,7 @@ This avoids:
 
 ---
 
-## 🧪 Testing Sync Direction
+## Testing Sync Direction
 
 Before enabling full sync, test:
 
@@ -108,4 +108,4 @@ Before enabling full sync, test:
 ## 🔍 Learn More
 
 Refer to Getint documentation:  
-https://docs.getint.io/getintio-platform/workflows/configuring-your-data-sync
+[https://docs.getint.io/getintio-platform/workflows/configuring-your-data-sync](https://docs.getint.io/getintio-platform/workflows/configuring-your-data-sync-bidirectional-and-unidirectional-options)

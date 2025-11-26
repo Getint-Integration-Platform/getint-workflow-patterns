@@ -89,7 +89,7 @@ When a user is missing or unmapped:
 
 ---
 
-## 🧩 Recommended Best Practices
+## Recommended Best Practices
 
 ### **1. Always set a Default User**
 This avoids:

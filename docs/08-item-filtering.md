@@ -165,4 +165,4 @@ Status in (In Progress, QA)
 ## 🔍 Learn More
 
 Refer to Getint documentation:  
-https://docs.getint.io/getintio-platform/workflows/item-filtering
+https://docs.getint.io/getintio-platform/workflows/filtering-items-for-integration-in-getint
